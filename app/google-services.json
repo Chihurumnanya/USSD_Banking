@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "493015521080",
+    "firebase_url": "https://ussd-banking.firebaseio.com",
+    "project_id": "ussd-banking",
+    "storage_bucket": "ussd-banking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493015521080:android:bd367ae09a174f56",
+        "android_client_info": {
+          "package_name": "com.example.chihurmnanyanwanevu.ussdbanking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493015521080-fp74h9fm84e37kvagu7j9j1fb9i9kgkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chihurmnanyanwanevu.ussdbanking",
+            "certificate_hash": "2a082208c6a44d79c18004bac41fc27d6796e64f"
+          }
+        },
+        {
+          "client_id": "493015521080-hvucrsu753kejar67m5isi1hd7cblm31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrX7kqE-m_q_FKR9TY8dyxrKTErQKA2Qo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493015521080-hvucrsu753kejar67m5isi1hd7cblm31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
